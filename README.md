@@ -1,1 +1,2 @@
-# PMS-API
+# tgt-pms
+PMS, Accounting, Invoicing, HRIMS

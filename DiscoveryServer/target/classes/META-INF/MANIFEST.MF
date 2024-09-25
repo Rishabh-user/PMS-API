@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Targeticon
+Build-Jdk: 17.0.11
+Implementation-Title: DiscoveryServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.targeticon.pms
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/discovery-server
+Created-By: Maven Integration for Eclipse
+
